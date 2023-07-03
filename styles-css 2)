@@ -1,0 +1,20 @@
+.hero-webstudio:hover{
+    font-size: 50px;
+    color :red;
+}
+.hero-studio:hover{
+    font-size: 30px;
+    color: red;
+}
+.hero-portfolio:hover{
+    font-size: 30px;
+    color: red;
+}
+.hero-contact:hover{
+    font-size: 30px;
+    color: red;
+}
+.contacts-list:hover{
+    font-size: 30px;
+    color: red;
+}
