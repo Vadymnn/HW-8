@@ -1,0 +1,15 @@
+.pink{
+    color: pink;
+}
+#greycol{
+    color: gray;
+}
+.red{
+color: red;
+}
+.green{
+color: green;
+}
+.yellow{
+color: yellow;
+}
