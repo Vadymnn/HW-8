@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css">
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <h3 class="hero-webstudio">WebStudio</h3>
+        <nav>
+           <ul><li><a  class="hero-studio" href="un">Студія</a></li>
+        <li><a  class="hero-portfolio" href="#">Портфоліо</a></li>
+        <li><a   class="hero-contact" href="#">Контакти</a></li>
+    </ul></nav>
+<ul class="contacts-list"><li class="contact-mail"><a href="mailto:info@devstudio.com">info@devstudio.com</a></li> 
+<li  class="contact-number"> <a href="+380961111111">+38 096 111 11 11</a></li></ul></header> 
+  </body>
+</html>
